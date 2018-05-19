@@ -18,8 +18,8 @@
       <file leaf-file-name="UnicodeFileToHtmlTextConverter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tddmicroexercises/textconvertor/UnicodeFileToHtmlTextConverter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+            <state relative-caret-position="292">
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#397#398#0" expanded="true" />
@@ -44,13 +44,15 @@
       <file leaf-file-name="UnicodeFileToHtmlTextConverterTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/tddmicroexercises/textconvertor/UnicodeFileToHtmlTextConverterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+            <state relative-caret-position="234">
+              <caret line="25" column="127" selection-start-line="25" selection-start-column="127" selection-end-line="25" selection-end-column="127" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#408#477#1" expanded="true" />
                 <element signature="e#459#562#1" expanded="true" />
+                <element signature="e#704#754#1" expanded="true" />
                 <element signature="e#688#734#1" expanded="true" />
+                <element signature="e#1045#1095#1" expanded="true" />
                 <element signature="e#1041#1147#1" expanded="true" />
                 <element signature="e#1086#1106#0" expanded="true" />
               </folding>
@@ -199,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.UnicodeFileToHtmlTextConverterTest">
+  <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -220,75 +222,6 @@
       <option name="MAIN_CLASS_NAME" value="tddmicroexercises.textconvertor.UnicodeFileToHtmlTextConverterTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="UnicodeFileToHtmlTextConverterTest.sample_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TextConverter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tddmicroexercises.textconvertor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="tddmicroexercises.textconvertor" />
-      <option name="MAIN_CLASS_NAME" value="tddmicroexercises.textconvertor.UnicodeFileToHtmlTextConverterTest" />
-      <option name="METHOD_NAME" value="sample_test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="UnicodeFileToHtmlTextConverterTest.should_add_a_line_break_for_a_new_line" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TextConverter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tddmicroexercises.textconvertor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="tddmicroexercises.textconvertor" />
-      <option name="MAIN_CLASS_NAME" value="tddmicroexercises.textconvertor.UnicodeFileToHtmlTextConverterTest" />
-      <option name="METHOD_NAME" value="should_add_a_line_break_for_a_new_line" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="UnicodeFileToHtmlTextConverterTest.should_convert_ampersand" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TextConverter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tddmicroexercises.textconvertor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="tddmicroexercises.textconvertor" />
-      <option name="MAIN_CLASS_NAME" value="tddmicroexercises.textconvertor.UnicodeFileToHtmlTextConverterTest" />
-      <option name="METHOD_NAME" value="should_convert_ampersand" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -350,18 +283,9 @@
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
-    <list>
-      <item itemvalue="JUnit.UnicodeFileToHtmlTextConverterTest" />
-      <item itemvalue="JUnit.UnicodeFileToHtmlTextConverterTest.sample_test" />
-      <item itemvalue="JUnit.UnicodeFileToHtmlTextConverterTest.should_convert_ampersand" />
-      <item itemvalue="JUnit.UnicodeFileToHtmlTextConverterTest.should_add_a_line_break_for_a_new_line" />
-    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.UnicodeFileToHtmlTextConverterTest" />
-        <item itemvalue="JUnit.UnicodeFileToHtmlTextConverterTest.should_add_a_line_break_for_a_new_line" />
-        <item itemvalue="JUnit.UnicodeFileToHtmlTextConverterTest.should_convert_ampersand" />
-        <item itemvalue="JUnit.UnicodeFileToHtmlTextConverterTest.sample_test" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +299,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526711753906</updated>
-      <workItem from="1526711755568" duration="3429000" />
+      <workItem from="1526711755568" duration="3643000" />
     </task>
     <servers />
   </component>
@@ -401,9 +325,15 @@
     <history-entry file="UnicodeFileToHtmlTextConverterTest - 2018.05.19 at 15h 35m 12s.xml">
       <configuration name="UnicodeFileToHtmlTextConverterTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="UnicodeFileToHtmlTextConverterTest_should_add_a_line_break_for_a_new_line - 2018.05.19 at 15h 46m 34s.xml">
+      <configuration name="UnicodeFileToHtmlTextConverterTest.should_add_a_line_break_for_a_new_line" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnicodeFileToHtmlTextConverterTest - 2018.05.19 at 15h 46m 44s.xml">
+      <configuration name="UnicodeFileToHtmlTextConverterTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3429000" />
+    <option name="totallyTimeSpent" value="3643000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,8 +370,8 @@
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="bottom" id="Run" order="10" weight="0.32905984" />
       <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32905984" />
-      <window_info active="true" content_ui="combo" id="Project" order="4" sideWeight="0.49469215" visible="true" weight="0.25767368" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32905984" />
+      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.49469215" visible="true" weight="0.25767368" />
       <window_info anchor="bottom" id="SonarLint" order="4" />
       <window_info anchor="bottom" id="Find" order="8" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -515,17 +445,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tddmicroexercises/textconvertor/StringEscaper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tddmicroexercises/textconvertor/UnicodeFileToHtmlTextConverter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        <state relative-caret-position="292">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#397#398#0" expanded="true" />
@@ -537,15 +460,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tddmicroexercises/textconvertor/StringEscaper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tddmicroexercises/textconvertor/UnicodeFileToHtmlTextConverterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+        <state relative-caret-position="234">
+          <caret line="25" column="127" selection-start-line="25" selection-start-column="127" selection-end-line="25" selection-end-column="127" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#408#477#1" expanded="true" />
             <element signature="e#459#562#1" expanded="true" />
+            <element signature="e#704#754#1" expanded="true" />
             <element signature="e#688#734#1" expanded="true" />
+            <element signature="e#1045#1095#1" expanded="true" />
             <element signature="e#1041#1147#1" expanded="true" />
             <element signature="e#1086#1106#0" expanded="true" />
           </folding>
