@@ -18,12 +18,11 @@
       <file leaf-file-name="UnicodeFileToHtmlTextConverter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tddmicroexercises/textconvertor/UnicodeFileToHtmlTextConverter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+            <state relative-caret-position="315">
+              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#397#398#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
                 <element signature="e#513#594#1" expanded="true" />
                 <element signature="e#606#638#1" expanded="true" />
                 <element signature="e#644#661#1" expanded="true" />
@@ -32,27 +31,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringEscaper.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StringEscaper.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/tddmicroexercises/textconvertor/StringEscaper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="48" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="49" />
+              <folding>
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#168#169#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UnicodeFileToHtmlTextConverterTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UnicodeFileToHtmlTextConverterTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/tddmicroexercises/textconvertor/UnicodeFileToHtmlTextConverterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="25" column="127" selection-start-line="25" selection-start-column="127" selection-end-line="25" selection-end-column="127" />
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#408#477#1" expanded="true" />
                 <element signature="e#459#562#1" expanded="true" />
-                <element signature="e#704#754#1" expanded="true" />
                 <element signature="e#688#734#1" expanded="true" />
-                <element signature="e#1045#1095#1" expanded="true" />
                 <element signature="e#1041#1147#1" expanded="true" />
                 <element signature="e#1086#1106#0" expanded="true" />
               </folding>
@@ -73,8 +72,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/tddmicroexercises/textconvertor/StringEscaper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tddmicroexercises/textconvertor/UnicodeFileToHtmlTextConverter.java" />
         <option value="$PROJECT_DIR$/src/test/java/tddmicroexercises/textconvertor/UnicodeFileToHtmlTextConverterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tddmicroexercises/textconvertor/UnicodeFileToHtmlTextConverter.java" />
       </list>
     </option>
   </component>
@@ -299,26 +298,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526711753906</updated>
-      <workItem from="1526711755568" duration="3643000" />
+      <workItem from="1526711755568" duration="4776000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UnicodeFileToHtmlTextConverterTest_sample_test - 2018.05.19 at 14h 57m 01s.xml">
-      <configuration name="UnicodeFileToHtmlTextConverterTest.sample_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UnicodeFileToHtmlTextConverterTest_sample_test - 2018.05.19 at 15h 29m 42s.xml">
-      <configuration name="UnicodeFileToHtmlTextConverterTest.sample_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UnicodeFileToHtmlTextConverterTest_sample_test - 2018.05.19 at 15h 30m 37s.xml">
-      <configuration name="UnicodeFileToHtmlTextConverterTest.sample_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UnicodeFileToHtmlTextConverterTest - 2018.05.19 at 15h 30m 44s.xml">
-      <configuration name="UnicodeFileToHtmlTextConverterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UnicodeFileToHtmlTextConverterTest_should_convert_ampersand - 2018.05.19 at 15h 31m 49s.xml">
-      <configuration name="UnicodeFileToHtmlTextConverterTest.should_convert_ampersand" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="UnicodeFileToHtmlTextConverterTest_should_convert_ampersand - 2018.05.19 at 15h 34m 59s.xml">
       <configuration name="UnicodeFileToHtmlTextConverterTest.should_convert_ampersand" configurationId="JUnit" />
     </history-entry>
@@ -331,9 +315,27 @@
     <history-entry file="UnicodeFileToHtmlTextConverterTest - 2018.05.19 at 15h 46m 44s.xml">
       <configuration name="UnicodeFileToHtmlTextConverterTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="UnicodeFileToHtmlTextConverterTest_should_convert_greater_than_and_less_than - 2018.05.19 at 15h 49m 59s.xml">
+      <configuration name="UnicodeFileToHtmlTextConverterTest.should_convert_greater_than_and_less_than" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnicodeFileToHtmlTextConverterTest - 2018.05.19 at 15h 50m 20s.xml">
+      <configuration name="UnicodeFileToHtmlTextConverterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnicodeFileToHtmlTextConverterTest - 2018.05.19 at 15h 55m 03s.xml">
+      <configuration name="UnicodeFileToHtmlTextConverterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnicodeFileToHtmlTextConverterTest - 2018.05.19 at 15h 56m 07s.xml">
+      <configuration name="UnicodeFileToHtmlTextConverterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnicodeFileToHtmlTextConverterTest_should_convert_ampersand - 2018.05.19 at 16h 04m 36s.xml">
+      <configuration name="UnicodeFileToHtmlTextConverterTest.should_convert_ampersand" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnicodeFileToHtmlTextConverterTest - 2018.05.19 at 16h 04m 55s.xml">
+      <configuration name="UnicodeFileToHtmlTextConverterTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3643000" />
+    <option name="totallyTimeSpent" value="4776000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -368,9 +370,9 @@
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="bottom" id="Run" order="10" weight="0.32905984" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32905984" />
       <window_info content_ui="combo" id="Project" order="4" sideWeight="0.49469215" visible="true" weight="0.25767368" />
       <window_info anchor="bottom" id="SonarLint" order="4" />
       <window_info anchor="bottom" id="Find" order="8" />
@@ -447,12 +449,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/tddmicroexercises/textconvertor/UnicodeFileToHtmlTextConverter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        <state relative-caret-position="315">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
             <element signature="e#513#594#1" expanded="true" />
             <element signature="e#606#638#1" expanded="true" />
             <element signature="e#644#661#1" expanded="true" />
@@ -460,26 +461,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tddmicroexercises/textconvertor/StringEscaper.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tddmicroexercises/textconvertor/UnicodeFileToHtmlTextConverterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#459#562#1" expanded="true" />
+            <element signature="e#688#734#1" expanded="true" />
+            <element signature="e#1041#1147#1" expanded="true" />
+            <element signature="e#1086#1106#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tddmicroexercises/textconvertor/UnicodeFileToHtmlTextConverterTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/tddmicroexercises/textconvertor/StringEscaper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="25" column="127" selection-start-line="25" selection-start-column="127" selection-end-line="25" selection-end-column="127" />
+        <state relative-caret-position="30">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="49" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#408#477#1" expanded="true" />
-            <element signature="e#459#562#1" expanded="true" />
-            <element signature="e#704#754#1" expanded="true" />
-            <element signature="e#688#734#1" expanded="true" />
-            <element signature="e#1045#1095#1" expanded="true" />
-            <element signature="e#1041#1147#1" expanded="true" />
-            <element signature="e#1086#1106#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
           </folding>
         </state>
       </provider>

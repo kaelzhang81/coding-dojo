@@ -1,21 +1,20 @@
 package tddmicroexercises.textconvertor;
 
-import org.apache.commons.lang3.StringEscapeUtils;
+//import org.apache.commons.lang3.StringEscapeUtils;
 
 import java.io.*;
 
 public class UnicodeFileToHtmlTextConverter
 {
+	private Reader reader;
 	private StringEscaper stringEscaper;
-	private Reader reader = null;
-	private String fullFilenameWithPath;
 
     public UnicodeFileToHtmlTextConverter(String fullFilenameWithPath) throws IOException {
-        this.reader = new FileReader(fullFilenameWithPath);
+        this(new FileReader(fullFilenameWithPath), new StringEscaper());
     }
 
 	public UnicodeFileToHtmlTextConverter(Reader reader) {
-		this.reader = reader;
+        this(reader, new StringEscaper());
 	}
 
 	public UnicodeFileToHtmlTextConverter(Reader reader, StringEscaper stringEscaper) {
@@ -30,8 +29,7 @@ public class UnicodeFileToHtmlTextConverter
 	    String html = "";
 	    while (line != null)
 	    {
-			// TODO-working-on: depending 3th lib
-	            html += StringEscapeUtils.escapeHtml4(line);
+	            html += this.stringEscaper.escapeHtml4(line);
 	            html += "<br />";
 	            line = reader.readLine();
 	    }
