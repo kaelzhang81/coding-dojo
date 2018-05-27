@@ -15,8 +15,8 @@
       <file leaf-file-name="OrthogonalDesignTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/OrthogonalDesignTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+            <state relative-caret-position="345">
+              <caret line="24" column="74" selection-start-line="24" selection-start-column="74" selection-end-line="24" selection-end-column="74" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#266#296#1" expanded="true" />
@@ -25,8 +25,8 @@
                 <element signature="e#354#386#0" expanded="true" />
                 <element signature="e#489#526#1" expanded="true" />
                 <element signature="e#510#525#0" expanded="true" />
-                <element signature="e#577#611#0" expanded="true" />
-                <element signature="e#577#611#0" expanded="true" />
+                <element signature="e#585#619#0" expanded="true" />
+                <element signature="e#585#619#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -35,28 +35,18 @@
       <file leaf-file-name="OrthogonalDesign.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/OrthogonalDesign.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="150">
+              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#452#484#1" expanded="true" />
                 <element signature="e#475#492#0" expanded="true" />
-                <element signature="e#266#406#0" expanded="true" />
+                <element signature="e#276#412#0" expanded="true" />
                 <element signature="e#497#512#0" expanded="true" />
-                <element signature="e#266#406#0" expanded="true" />
+                <element signature="e#276#412#0" expanded="true" />
                 <element signature="e#584#602#0" expanded="true" />
-                <element signature="e#362#381#0" expanded="true" />
-                <element signature="e#362#381#0" expanded="true" />
-                <element signature="e#516#557#1" expanded="true" />
-                <element signature="e#539#556#0" expanded="true" />
-                <element signature="e#570#714#0" expanded="true" />
-                <element signature="e#571#586#0" expanded="true" />
-                <element signature="e#570#714#0" expanded="true" />
-                <element signature="e#613#704#0" expanded="true" />
-                <element signature="e#612#630#0" expanded="true" />
-                <element signature="e#613#704#0" expanded="true" />
-                <element signature="e#670#689#0" expanded="true" />
-                <element signature="e#670#689#0" expanded="true" />
+                <element signature="e#368#387#0" expanded="true" />
+                <element signature="e#368#387#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,8 +79,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/OrthogonalDesign.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/OrthogonalDesign.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/OrthogonalDesignTest.java" />
       </list>
     </option>
@@ -325,7 +315,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527405080244</updated>
-      <workItem from="1527405089231" duration="1622000" />
+      <workItem from="1527405089231" duration="1742000" />
     </task>
     <servers />
   </component>
@@ -348,9 +338,12 @@
     <history-entry file="OrthogonalDesignTest - 2018.05.27 at 15h 36m 51s.xml">
       <configuration name="OrthogonalDesignTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="OrthogonalDesignTest - 2018.05.27 at 15h 39m 02s.xml">
+      <configuration name="OrthogonalDesignTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1622000" />
+    <option name="totallyTimeSpent" value="1742000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -376,10 +369,10 @@
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info anchor="bottom" id="SonarLint" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info id="Favorites" side_tool="true" />
@@ -398,34 +391,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/OrthogonalDesign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#452#484#1" expanded="true" />
-            <element signature="e#475#492#0" expanded="true" />
-            <element signature="e#266#406#0" expanded="true" />
-            <element signature="e#497#512#0" expanded="true" />
-            <element signature="e#266#406#0" expanded="true" />
-            <element signature="e#584#602#0" expanded="true" />
-            <element signature="e#362#381#0" expanded="true" />
-            <element signature="e#362#381#0" expanded="true" />
-            <element signature="e#516#557#1" expanded="true" />
-            <element signature="e#539#556#0" expanded="true" />
-            <element signature="e#570#714#0" expanded="true" />
-            <element signature="e#571#586#0" expanded="true" />
-            <element signature="e#570#714#0" expanded="true" />
-            <element signature="e#613#704#0" expanded="true" />
-            <element signature="e#612#630#0" expanded="true" />
-            <element signature="e#613#704#0" expanded="true" />
-            <element signature="e#670#689#0" expanded="true" />
-            <element signature="e#670#689#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -439,10 +404,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/OrthogonalDesign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#452#484#1" expanded="true" />
+            <element signature="e#475#492#0" expanded="true" />
+            <element signature="e#276#412#0" expanded="true" />
+            <element signature="e#497#512#0" expanded="true" />
+            <element signature="e#276#412#0" expanded="true" />
+            <element signature="e#584#602#0" expanded="true" />
+            <element signature="e#368#387#0" expanded="true" />
+            <element signature="e#368#387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/OrthogonalDesignTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        <state relative-caret-position="345">
+          <caret line="24" column="74" selection-start-line="24" selection-start-column="74" selection-end-line="24" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#266#296#1" expanded="true" />
@@ -451,8 +434,8 @@
             <element signature="e#354#386#0" expanded="true" />
             <element signature="e#489#526#1" expanded="true" />
             <element signature="e#510#525#0" expanded="true" />
-            <element signature="e#577#611#0" expanded="true" />
-            <element signature="e#577#611#0" expanded="true" />
+            <element signature="e#585#619#0" expanded="true" />
+            <element signature="e#585#619#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -15,13 +15,13 @@ public class OrthogonalDesignTest {
     public void find_all_red_product(){
         List<Product> repo = new ArrayList();
         repo.add(new Product(Color.RED));
-        assertEquals(1, OrthogonalDesign.findAllRedProducts(repo).size());
+        assertEquals(1, OrthogonalDesign.findAllProducts(repo, Color.RED).size());
     }
 
     @Test
     public void find_all_green_product() {
         List<Product> repo = new ArrayList();
         repo.add(new Product(Color.GREEN));
-        assertEquals(1, OrthogonalDesign.findAllGreenProducts(repo).size());
+        assertEquals(1, OrthogonalDesign.findAllProducts(repo, Color.GREEN).size());
     }
 }
