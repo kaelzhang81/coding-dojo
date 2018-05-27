@@ -14,4 +14,14 @@ public class OrthogonalDesign {
         }
         return result;
     }
+
+    public static List<Product> findProductsBelowWeight(List<Product> repo, int weight){
+        List<Product> result = new ArrayList<>();
+        for (Product product: repo) {
+            if (product.getWeight() < weight){
+                result.add(product);
+            }
+        }
+        return result;
+    }
 }
