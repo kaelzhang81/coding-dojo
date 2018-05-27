@@ -55,32 +55,10 @@ public interface ProductSpec {
     }
 
     static ProductSpec and(ProductSpec... specs){
-//        return new ProductSpec() {
-//            @Override
-//            public boolean satisfy(Product product) {
-//                for (ProductSpec spec: specs) {
-//                    if (!spec.satisfy(product)){
-//                        return false;
-//                    }
-//                }
-//                return true;
-//            }
-//        };
         return combine(specs, false);
     }
 
     static ProductSpec or(ProductSpec... specs){
-//        return new ProductSpec() {
-//            @Override
-//            public boolean satisfy(Product product) {
-//                for (ProductSpec spec: specs) {
-//                    if (spec.satisfy(product)){
-//                        return true;
-//                    }
-//                }
-//                return false;
-//            }
-//        };
         return combine(specs, true);
     }
 }

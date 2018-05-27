@@ -45,8 +45,8 @@
       <file leaf-file-name="ProductSpec.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductSpec.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="85" selection-start-line="85" selection-end-line="85" />
+            <state relative-caret-position="226">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
               <folding>
                 <element signature="e#301#319#0" expanded="true" />
                 <element signature="e#630#649#0" expanded="true" />
@@ -55,6 +55,9 @@
                 <element signature="e#1228#1244#0" expanded="true" />
                 <element signature="e#1262#1354#0" expanded="true" />
                 <element signature="e#1262#1354#0" expanded="true" />
+                <element signature="e#1531#1532#0" expanded="true" />
+                <element signature="e#1943#1944#0" expanded="true" />
+                <element signature="e#1986#1987#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -398,14 +401,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527405080244</updated>
-      <workItem from="1527405089231" duration="11453000" />
+      <workItem from="1527405089231" duration="11516000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ProductRepositoryTest - 2018.05.27 at 22h 24m 41s.xml">
-      <configuration name="ProductRepositoryTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ProductRepositoryTest - 2018.05.27 at 22h 27m 23s.xml">
       <configuration name="ProductRepositoryTest" configurationId="JUnit" />
     </history-entry>
@@ -433,9 +433,12 @@
     <history-entry file="ProductRepositoryTest - 2018.05.27 at 23h 50m 02s.xml">
       <configuration name="ProductRepositoryTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ProductRepositoryTest - 2018.05.27 at 23h 52m 11s.xml">
+      <configuration name="ProductRepositoryTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11453000" />
+    <option name="totallyTimeSpent" value="11516000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -461,10 +464,10 @@
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info anchor="bottom" id="SonarLint" weight="0.32905984" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info id="Favorites" side_tool="true" />
@@ -648,8 +651,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductSpec.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        <state relative-caret-position="226">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
           <folding>
             <element signature="e#301#319#0" expanded="true" />
             <element signature="e#630#649#0" expanded="true" />
@@ -658,6 +661,9 @@
             <element signature="e#1228#1244#0" expanded="true" />
             <element signature="e#1262#1354#0" expanded="true" />
             <element signature="e#1262#1354#0" expanded="true" />
+            <element signature="e#1531#1532#0" expanded="true" />
+            <element signature="e#1943#1944#0" expanded="true" />
+            <element signature="e#1986#1987#0" expanded="true" />
           </folding>
         </state>
       </provider>
