@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import java.awt.*;
 
-import static com.kaelzhang.kata.ProductSpecs.*;
+import static com.kaelzhang.kata.ProductSpec.*;
 import static java.awt.Color.*;
 import static org.junit.Assert.assertEquals;
 
