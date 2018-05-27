@@ -1,14 +1,24 @@
 package com.kaelzhang.kata;
 
-import java.awt.*;
+import java.awt.Color;
 import java.util.ArrayList;
+import java.util.List;
 
 public class OrthogonalDesign {
-    public static ArrayList findAllRedProducts(ArrayList repo){
-        ArrayList result = new ArrayList();
-        for(int i = 0; i < repo.size(); i++){
-            Product product = (Product)repo.get(i);
+    public static List<Product> findAllRedProducts(List<Product> repo){
+        List<Product> result = new ArrayList<>();
+        for (Product product: repo) {
             if (product.getColor() == Color.RED){
+                result.add(product);
+            }
+        }
+        return result;
+    }
+
+    public static List<Product> findAllGreenProducts(List<Product> repo) {
+        List<Product> result = new ArrayList<>();
+        for (Product product : repo) {
+            if (product.getColor() == Color.GREEN) {
                 result.add(product);
             }
         }
