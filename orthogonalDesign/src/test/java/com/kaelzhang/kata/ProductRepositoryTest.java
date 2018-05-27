@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import java.awt.*;
 
-import static com.kaelzhang.kata.ProductSpec.*;
+import static com.kaelzhang.kata.ProductSpecs.*;
 import static java.awt.Color.*;
 import static org.junit.Assert.assertEquals;
 
@@ -32,7 +32,7 @@ public class ProductRepositoryTest {
 
     @Test
     public void find_all_weight_below_10_products() {
-        ProductSpec spec = ProductSpec.belowWeight(10);
+        ProductSpec spec = belowWeight(10);
         repo.add(new Product(RED, 5));
 
         assertEquals(1, repo.findProducts(spec).size());
