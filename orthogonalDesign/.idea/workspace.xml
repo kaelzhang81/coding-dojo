@@ -12,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="OrthogonalDesignTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OrthogonalDesignTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/OrthogonalDesignTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
@@ -32,6 +32,15 @@
                 <element signature="e#846#881#0" expanded="true" />
                 <element signature="e#846#881#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductSpec.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductSpec.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -85,6 +94,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -94,6 +104,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/Product.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/OrthogonalDesign.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/OrthogonalDesignTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductSpec.java" />
       </list>
     </option>
   </component>
@@ -327,7 +338,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527405080244</updated>
-      <workItem from="1527405089231" duration="2188000" />
+      <workItem from="1527405089231" duration="2313000" />
     </task>
     <servers />
   </component>
@@ -356,9 +367,12 @@
     <history-entry file="OrthogonalDesignTest - 2018.05.27 at 15h 41m 03s.xml">
       <configuration name="OrthogonalDesignTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="OrthogonalDesignTest - 2018.05.27 at 15h 48m 29s.xml">
+      <configuration name="OrthogonalDesignTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2188000" />
+    <option name="totallyTimeSpent" value="2313000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -380,14 +394,14 @@
       <window_info id="UI Designer" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Messages" weight="0.32905984" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info anchor="bottom" id="SonarLint" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info id="Favorites" side_tool="true" />
@@ -464,6 +478,13 @@
             <element signature="e#846#881#0" expanded="true" />
             <element signature="e#846#881#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductSpec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
         </state>
       </provider>
     </entry>
