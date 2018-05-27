@@ -43,10 +43,9 @@ public class ProductRepositoryTest {
 
     @Test
     public void find_products_weight_bewlow_10_and_color_is_red_or_green(){
-        ProductSpec spec = new AndSpec(new OrSpec(new ColorSpec(Color.RED),
-                new ColorSpec(Color.GREEN)),
-                new WeightSpec(10));
-//        ProductSpec spec = new ColorAndBelowWeightSpec(Color.RED, Color.GREEN, 10);
+        ProductSpec spec = new AndSpec(
+                            new OrSpec(new ColorSpec(Color.RED), new ColorSpec(Color.GREEN)),
+                            new WeightSpec(10));
         repo.add(new Product(Color.RED, 5));
         assertEquals(1, repo.findProducts(spec).size());
     }
