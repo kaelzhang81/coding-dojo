@@ -56,4 +56,12 @@ public class ProductRepositoryTest {
         repo.add(new Product(Color.RED, 5));
         assertEquals(1, repo.findProducts(spec).size());
     }
+
+    @Test
+    public void find_products_color_is_not_red(){
+        ProductSpec spec = new NotSpec(new ColorSpec(Color.RED));
+        repo.add(new Product(Color.RED, 5));
+        repo.add(new Product(Color.GREEN, 5));
+        assertEquals(1, repo.findProducts(spec).size());
+    }
 }

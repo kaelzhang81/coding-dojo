@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ProductRepositoryTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ProductRepositoryTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/ProductRepositoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="299">
+              <caret line="61" column="64" selection-start-line="61" selection-start-column="64" selection-end-line="61" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#316#317#0" expanded="true" />
@@ -26,6 +26,7 @@
                 <element signature="e#888#934#1" expanded="true" />
                 <element signature="e#1155#1305#1" expanded="true" />
                 <element signature="e#2164#2202#1" expanded="true" />
+                <element signature="e#1796#1873#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -45,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrSpec.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OrSpec.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/OrSpec.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -53,6 +54,21 @@
               <folding>
                 <element signature="e#139#140#0" expanded="true" />
                 <element signature="e#173#174#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NotSpec.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/NotSpec.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+              <folding>
+                <element signature="e#111#112#0" expanded="true" />
+                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -147,15 +163,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProductConsumer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductConsumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -180,10 +187,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductDb.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ColorAndBelowWeightSpec.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/ProductRepositoryTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/CombinableSpec.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/AndSpec.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/OrSpec.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/NotSpec.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/ProductRepositoryTest.java" />
       </list>
     </option>
   </component>
@@ -468,14 +476,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527405080244</updated>
-      <workItem from="1527405089231" duration="8828000" />
+      <workItem from="1527405089231" duration="9172000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ProductRepositoryTest - 2018.05.27 at 16h 05m 44s.xml">
-      <configuration name="ProductRepositoryTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ProductRepositoryTest - 2018.05.27 at 21h 47m 21s.xml">
       <configuration name="ProductRepositoryTest" configurationId="JUnit" />
     </history-entry>
@@ -503,9 +508,12 @@
     <history-entry file="ProductRepositoryTest - 2018.05.27 at 22h 45m 09s.xml">
       <configuration name="ProductRepositoryTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ProductRepositoryTest - 2018.05.27 at 23h 06m 17s.xml">
+      <configuration name="ProductRepositoryTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8828000" />
+    <option name="totallyTimeSpent" value="9172000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -527,11 +535,11 @@
       <window_info id="UI Designer" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Messages" weight="0.32905984" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
@@ -663,23 +671,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/ProductRepositoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#436#480#1" expanded="true" />
-            <element signature="e#592#636#1" expanded="true" />
-            <element signature="e#888#934#1" expanded="true" />
-            <element signature="e#1155#1305#1" expanded="true" />
-            <element signature="e#2164#2202#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/CombinableSpec.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -710,6 +701,37 @@
           <folding>
             <element signature="e#139#140#0" expanded="true" />
             <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/NotSpec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/ProductRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="61" column="64" selection-start-line="61" selection-start-column="64" selection-end-line="61" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#436#480#1" expanded="true" />
+            <element signature="e#592#636#1" expanded="true" />
+            <element signature="e#888#934#1" expanded="true" />
+            <element signature="e#1155#1305#1" expanded="true" />
+            <element signature="e#2164#2202#1" expanded="true" />
+            <element signature="e#1796#1873#1" expanded="true" />
           </folding>
         </state>
       </provider>
