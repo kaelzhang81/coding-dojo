@@ -20,4 +20,8 @@ public class ProductRepository {
         }
         return result;
     }
+
+    public List<Product> getAllProducts() {
+        return this.repo;
+    }
 }
