@@ -12,28 +12,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="OrthogonalDesignTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/OrthogonalDesignTest.java">
+      <file leaf-file-name="ProductRepositoryTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/ProductRepositoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="34" column="64" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
+            <state relative-caret-position="35">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#309#376#1" expanded="true" />
-                <element signature="e#352#391#1" expanded="true" />
-                <element signature="e#238#253#0" expanded="true" />
-                <element signature="e#410#446#0" expanded="true" />
-                <element signature="e#410#446#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#436#480#1" expanded="true" />
                 <element signature="e#592#636#1" expanded="true" />
-                <element signature="e#489#526#1" expanded="true" />
-                <element signature="e#510#525#0" expanded="true" />
-                <element signature="e#695#732#0" expanded="true" />
-                <element signature="e#695#732#0" expanded="true" />
                 <element signature="e#888#934#1" expanded="true" />
-                <element signature="e#791#815#1" expanded="true" />
-                <element signature="e#812#829#0" expanded="true" />
-                <element signature="e#983#1018#0" expanded="true" />
-                <element signature="e#983#1018#0" expanded="true" />
+                <element signature="e#1193#1231#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -48,22 +39,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrthogonalDesign.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/OrthogonalDesign.java">
+      <file leaf-file-name="ProductRepository.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="91">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#236#258#0" expanded="true" />
+                <element signature="e#236#258#0" expanded="true" />
+                <element signature="e#198#199#0" expanded="true" />
                 <element signature="e#223#264#1" expanded="true" />
                 <element signature="e#246#263#0" expanded="true" />
-                <element signature="e#279#411#0" expanded="true" />
+                <element signature="e#383#515#0" expanded="true" />
                 <element signature="e#278#293#0" expanded="true" />
-                <element signature="e#279#411#0" expanded="true" />
-                <element signature="e#322#401#0" expanded="true" />
-                <element signature="e#322#401#0" expanded="true" />
-                <element signature="e#367#386#0" expanded="true" />
-                <element signature="e#367#386#0" expanded="true" />
+                <element signature="e#383#515#0" expanded="true" />
+                <element signature="e#426#505#0" expanded="true" />
+                <element signature="e#426#505#0" expanded="true" />
+                <element signature="e#471#490#0" expanded="true" />
+                <element signature="e#471#490#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -100,8 +95,8 @@
       <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state relative-caret-position="120">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
               <folding>
                 <element signature="e#100#101#0" expanded="true" />
                 <element signature="e#133#134#0" expanded="true" />
@@ -129,8 +124,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/WeightSpec.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductSpec.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ColorSpec.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/OrthogonalDesign.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/OrthogonalDesignTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/OrthogonalDesign.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/ProductRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductRepository.java" />
       </list>
     </option>
   </component>
@@ -238,14 +235,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.OrthogonalDesignTest">
+  <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="OrthogonalDesignTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProductRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="orthogonalDesign" />
       <extension name="coverage">
         <pattern>
@@ -256,7 +253,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.kaelzhang.kata" />
-      <option name="MAIN_CLASS_NAME" value="com.kaelzhang.kata.OrthogonalDesignTest" />
+      <option name="MAIN_CLASS_NAME" value="com.kaelzhang.kata.ProductRepositoryTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -268,7 +265,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="OrthogonalDesignTest.find_all_red_product" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProductRepositoryTest.find_all_red_product" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="orthogonalDesign" />
       <extension name="coverage">
         <pattern>
@@ -279,7 +276,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.kaelzhang.kata" />
-      <option name="MAIN_CLASS_NAME" value="com.kaelzhang.kata.OrthogonalDesignTest" />
+      <option name="MAIN_CLASS_NAME" value="com.kaelzhang.kata.ProductRepositoryTest" />
       <option name="METHOD_NAME" value="find_all_red_product" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -291,7 +288,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="OrthogonalDesignTest.find_all_red_products" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProductRepositoryTest.find_all_red_products" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="orthogonalDesign" />
       <extension name="coverage">
         <pattern>
@@ -302,7 +299,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.kaelzhang.kata" />
-      <option name="MAIN_CLASS_NAME" value="com.kaelzhang.kata.OrthogonalDesignTest" />
+      <option name="MAIN_CLASS_NAME" value="com.kaelzhang.kata.ProductRepositoryTest" />
       <option name="METHOD_NAME" value="find_all_red_products" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -367,15 +364,15 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="JUnit.OrthogonalDesignTest.find_all_red_product" />
-      <item itemvalue="JUnit.OrthogonalDesignTest" />
-      <item itemvalue="JUnit.OrthogonalDesignTest.find_all_red_products" />
+      <item itemvalue="JUnit.ProductRepositoryTest.find_all_red_product" />
+      <item itemvalue="JUnit.ProductRepositoryTest" />
+      <item itemvalue="JUnit.ProductRepositoryTest.find_all_red_products" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.OrthogonalDesignTest" />
-        <item itemvalue="JUnit.OrthogonalDesignTest.find_all_red_products" />
-        <item itemvalue="JUnit.OrthogonalDesignTest.find_all_red_product" />
+        <item itemvalue="JUnit.ProductRepositoryTest" />
+        <item itemvalue="JUnit.ProductRepositoryTest.find_all_red_products" />
+        <item itemvalue="JUnit.ProductRepositoryTest.find_all_red_product" />
       </list>
     </recent_temporary>
   </component>
@@ -389,29 +386,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527405080244</updated>
-      <workItem from="1527405089231" duration="3015000" />
+      <workItem from="1527405089231" duration="4383000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OrthogonalDesignTest_find_all_red_product - 2018.05.27 at 15h 26m 05s.xml">
-      <configuration name="OrthogonalDesignTest.find_all_red_product" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OrthogonalDesignTest_find_all_red_product - 2018.05.27 at 15h 32m 32s.xml">
-      <configuration name="OrthogonalDesignTest.find_all_red_product" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OrthogonalDesignTest_find_all_red_product - 2018.05.27 at 15h 33m 18s.xml">
-      <configuration name="OrthogonalDesignTest.find_all_red_product" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OrthogonalDesignTest - 2018.05.27 at 15h 33m 30s.xml">
-      <configuration name="OrthogonalDesignTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OrthogonalDesignTest - 2018.05.27 at 15h 36m 34s.xml">
-      <configuration name="OrthogonalDesignTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OrthogonalDesignTest - 2018.05.27 at 15h 36m 51s.xml">
-      <configuration name="OrthogonalDesignTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="OrthogonalDesignTest - 2018.05.27 at 15h 39m 02s.xml">
       <configuration name="OrthogonalDesignTest" configurationId="JUnit" />
     </history-entry>
@@ -424,9 +403,27 @@
     <history-entry file="OrthogonalDesignTest - 2018.05.27 at 15h 52m 00s.xml">
       <configuration name="OrthogonalDesignTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="OrthogonalDesignTest_find_all_red_products - 2018.05.27 at 16h 02m 24s.xml">
+      <configuration name="OrthogonalDesignTest.find_all_red_products" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrthogonalDesignTest - 2018.05.27 at 16h 02m 32s.xml">
+      <configuration name="OrthogonalDesignTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductRepositoryTest - 2018.05.27 at 16h 05m 44s.xml">
+      <configuration name="ProductRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductRepositoryTest - 2018.05.27 at 21h 47m 21s.xml">
+      <configuration name="ProductRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductRepositoryTest - 2018.05.27 at 21h 48m 44s.xml">
+      <configuration name="ProductRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductRepositoryTest - 2018.05.27 at 21h 50m 34s.xml">
+      <configuration name="ProductRepositoryTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3015000" />
+    <option name="totallyTimeSpent" value="4383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -434,8 +431,8 @@
     <layout>
       <window_info anchor="right" id="PlantUML" />
       <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="Tool Output" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="bottom" id="Tool Output" weight="0.32905984" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" weight="0.32905984" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -452,11 +449,11 @@
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
-      <window_info anchor="bottom" id="SonarLint" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info anchor="bottom" id="SonarLint" weight="0.32905984" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -474,19 +471,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding>
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/WeightSpec.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -518,46 +502,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/OrthogonalDesign.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="120">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#223#264#1" expanded="true" />
-            <element signature="e#246#263#0" expanded="true" />
-            <element signature="e#279#411#0" expanded="true" />
-            <element signature="e#278#293#0" expanded="true" />
-            <element signature="e#279#411#0" expanded="true" />
-            <element signature="e#322#401#0" expanded="true" />
-            <element signature="e#322#401#0" expanded="true" />
-            <element signature="e#367#386#0" expanded="true" />
-            <element signature="e#367#386#0" expanded="true" />
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/OrthogonalDesignTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/ProductRepositoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="34" column="64" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
+        <state relative-caret-position="35">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#309#376#1" expanded="true" />
-            <element signature="e#352#391#1" expanded="true" />
-            <element signature="e#238#253#0" expanded="true" />
-            <element signature="e#410#446#0" expanded="true" />
-            <element signature="e#410#446#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#436#480#1" expanded="true" />
             <element signature="e#592#636#1" expanded="true" />
-            <element signature="e#489#526#1" expanded="true" />
-            <element signature="e#510#525#0" expanded="true" />
-            <element signature="e#695#732#0" expanded="true" />
-            <element signature="e#695#732#0" expanded="true" />
             <element signature="e#888#934#1" expanded="true" />
-            <element signature="e#791#815#1" expanded="true" />
-            <element signature="e#812#829#0" expanded="true" />
-            <element signature="e#983#1018#0" expanded="true" />
-            <element signature="e#983#1018#0" expanded="true" />
+            <element signature="e#1193#1231#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#236#258#0" expanded="true" />
+            <element signature="e#236#258#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#223#264#1" expanded="true" />
+            <element signature="e#246#263#0" expanded="true" />
+            <element signature="e#383#515#0" expanded="true" />
+            <element signature="e#278#293#0" expanded="true" />
+            <element signature="e#383#515#0" expanded="true" />
+            <element signature="e#426#505#0" expanded="true" />
+            <element signature="e#426#505#0" expanded="true" />
+            <element signature="e#471#490#0" expanded="true" />
+            <element signature="e#471#490#0" expanded="true" />
           </folding>
         </state>
       </provider>
