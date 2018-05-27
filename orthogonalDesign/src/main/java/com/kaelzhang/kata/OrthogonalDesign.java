@@ -5,20 +5,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class OrthogonalDesign {
-    public static List<Product> findAllProducts(List<Product> repo, Color color){
+    public static List<Product> findProducts(List<Product> repo, ProductSpec spec) {
         List<Product> result = new ArrayList<>();
-        for (Product product: repo) {
-            if (product.getColor() == color){
-                result.add(product);
-            }
-        }
-        return result;
-    }
-
-    public static List<Product> findProductsBelowWeight(List<Product> repo, int weight){
-        List<Product> result = new ArrayList<>();
-        for (Product product: repo) {
-            if (product.getWeight() < weight){
+        for (Product product : repo) {
+            if (spec.satisfy(product)) {
                 result.add(product);
             }
         }
