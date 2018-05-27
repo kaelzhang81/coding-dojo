@@ -15,8 +15,8 @@
       <file leaf-file-name="ProductRepositoryTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/ProductRepositoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            <state relative-caret-position="335">
+              <caret line="44" column="67" selection-start-line="44" selection-start-column="67" selection-end-line="44" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#316#317#0" expanded="true" />
@@ -25,6 +25,20 @@
                 <element signature="e#592#636#1" expanded="true" />
                 <element signature="e#888#934#1" expanded="true" />
                 <element signature="e#1193#1231#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ColorAndBelowWeightSpec.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ColorAndBelowWeightSpec.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <folding>
+                <element signature="e#165#183#0" expanded="true" />
+                <element signature="e#252#270#0" expanded="true" />
+                <element signature="e#276#295#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -39,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProductRepository.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ProductRepository.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+            <state relative-caret-position="334">
+              <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#170#187#0" expanded="true" />
@@ -62,6 +76,7 @@
                 <element signature="e#471#490#0" expanded="true" />
                 <element signature="e#584#585#0" expanded="true" />
                 <element signature="e#611#612#0" expanded="true" />
+                <element signature="e#693#708#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,13 +86,12 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductDb.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+              <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
               <folding>
                 <element signature="e#203#204#0" expanded="true" />
                 <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#270#362#0" expanded="true" />
-                <element signature="e#275#290#0" expanded="true" />
-                <element signature="e#270#362#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -86,8 +100,8 @@
       <file leaf-file-name="Database.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/Database.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -149,8 +163,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -163,11 +177,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ColorSpec.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/OrthogonalDesignTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/OrthogonalDesign.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/ProductRepositoryTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductDb.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/Database.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductConsumer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductDb.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/ProductRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ColorAndBelowWeightSpec.java" />
       </list>
     </option>
   </component>
@@ -351,6 +366,29 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="ProductRepositoryTest.find_products_weight_bewlow_10_and_color_is_red_or_green" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="orthogonalDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kaelzhang.kata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.kaelzhang.kata" />
+      <option name="MAIN_CLASS_NAME" value="com.kaelzhang.kata.ProductRepositoryTest" />
+      <option name="METHOD_NAME" value="find_products_weight_bewlow_10_and_color_is_red_or_green" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -407,10 +445,12 @@
       <item itemvalue="JUnit.ProductRepositoryTest.find_all_red_product" />
       <item itemvalue="JUnit.ProductRepositoryTest" />
       <item itemvalue="JUnit.ProductRepositoryTest.find_all_red_products" />
+      <item itemvalue="JUnit.ProductRepositoryTest.find_products_weight_bewlow_10_and_color_is_red_or_green" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ProductRepositoryTest" />
+        <item itemvalue="JUnit.ProductRepositoryTest.find_products_weight_bewlow_10_and_color_is_red_or_green" />
         <item itemvalue="JUnit.ProductRepositoryTest.find_all_red_products" />
         <item itemvalue="JUnit.ProductRepositoryTest.find_all_red_product" />
       </list>
@@ -426,7 +466,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527405080244</updated>
-      <workItem from="1527405089231" duration="4836000" />
+      <workItem from="1527405089231" duration="5597000" />
     </task>
     <servers />
   </component>
@@ -463,7 +503,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4836000" />
+    <option name="totallyTimeSpent" value="5597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -555,29 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/ProductRepositoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#436#480#1" expanded="true" />
-            <element signature="e#592#636#1" expanded="true" />
-            <element signature="e#888#934#1" expanded="true" />
-            <element signature="e#1193#1231#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/Database.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -585,24 +602,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductDb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-          <folding>
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#270#362#0" expanded="true" />
-            <element signature="e#275#290#0" expanded="true" />
-            <element signature="e#270#362#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        <state relative-caret-position="334">
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#170#187#0" expanded="true" />
@@ -621,6 +624,55 @@
             <element signature="e#471#490#0" expanded="true" />
             <element signature="e#584#585#0" expanded="true" />
             <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#693#708#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ProductDb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kaelzhang/kata/ProductRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="44" column="67" selection-start-line="44" selection-start-column="67" selection-end-line="44" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#436#480#1" expanded="true" />
+            <element signature="e#592#636#1" expanded="true" />
+            <element signature="e#888#934#1" expanded="true" />
+            <element signature="e#1193#1231#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kaelzhang/kata/ColorAndBelowWeightSpec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#165#183#0" expanded="true" />
+            <element signature="e#252#270#0" expanded="true" />
+            <element signature="e#276#295#0" expanded="true" />
           </folding>
         </state>
       </provider>

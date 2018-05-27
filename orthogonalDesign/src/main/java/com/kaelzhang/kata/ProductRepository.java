@@ -24,4 +24,10 @@ public class ProductRepository {
     public List<Product> getAllProducts() {
         return this.repo;
     }
+
+    public void foreach(ProductConsumer productConsumer){
+        for(Product product : repo){
+            productConsumer.accept(product);
+        }
+    }
 }

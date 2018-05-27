@@ -9,8 +9,6 @@ public class ProductDb {
     }
 
     public void save(){
-        for (Product product: this.repo.getAllProducts() ) {
-            db.save(product);
-        }
+        this.repo.foreach(Database::save);
     }
 }
